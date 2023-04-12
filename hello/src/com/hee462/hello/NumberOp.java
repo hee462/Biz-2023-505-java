@@ -23,7 +23,7 @@ public class NumberOp {
 		
 		/*
 		 * 코드에서 사용하는 숫자는 정수와 실수가 있고 
-		 * 큰정수(int, integer)와 작은정수(long)
+		 * 큰정수(long)와 작은정수(int, integer)
 		 * 배정도(double) 실수, 단정도(float) 실수가 있다.
 		 */
 		
